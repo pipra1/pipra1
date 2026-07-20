@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Habibur Rahman
 
-<!--
-**pipra1/pipra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CSE student @ University of Rajshahi
+🏆 Codeforces Expert (Max 1726)
+⭐ CodeChef 4★ (1812)
+💻 Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 Currently building
+Online Judge & Contest Management Platform
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+C++ • JavaScript • React • Node.js • PostgreSQL • Docker • Firebase
+
+🌱 Currently learning
+Distributed Systems • System Design • Kubernetes
+
+📫 Connect
+LinkedIn | Portfolio | Codeforces
