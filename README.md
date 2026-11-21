@@ -41,25 +41,3 @@ Codeforces Expert (Max 1726) • Full-Stack Developer • Final-Year CSE @ Unive
 <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,postgres,firebase,docker,git,linux,vscode" />
 </p>
 
----
-
-## Featured Projects
-
-- 🏆 Online Judge & Contest Management Platform *(In Progress)*
-- 🗳️ RUCSU Voter Search
-- 🍽️ SmartServe Restaurant Management System
-
----
-
-## GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pipra1&show_icons=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pipra1"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pipra1&layout=compact"/>
-
-</p>
-
