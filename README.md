@@ -5,7 +5,7 @@ Codeforces Expert (Max 1726) • Full-Stack Developer • Final-Year CSE @ Unive
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🏆 Codeforces Expert (Max Rating **1726**)
 - ⭐ CodeChef 4★ (Max Rating **1812**)
@@ -17,7 +17,7 @@ Codeforces Expert (Max 1726) • Full-Stack Developer • Final-Year CSE @ Unive
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/pipra1">
@@ -35,7 +35,7 @@ Codeforces Expert (Max 1726) • Full-Stack Developer • Final-Year CSE @ Unive
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,postgres,firebase,docker,git,linux,vscode" />
@@ -43,7 +43,7 @@ Codeforces Expert (Max 1726) • Full-Stack Developer • Final-Year CSE @ Unive
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 - 🏆 Online Judge & Contest Management Platform *(In Progress)*
 - 🗳️ RUCSU Voter Search
@@ -51,7 +51,7 @@ Codeforces Expert (Max 1726) • Full-Stack Developer • Final-Year CSE @ Unive
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
 
